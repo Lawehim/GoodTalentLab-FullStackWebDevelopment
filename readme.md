@@ -1,0 +1,1 @@
+This is a folder containing all the assignments and exercises and projects in the GoodTalent graduate acceleration programme.
